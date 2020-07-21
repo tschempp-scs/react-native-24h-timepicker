@@ -26,7 +26,7 @@
   "homepage": "https://github.com/NYSamnang/react-native-24h-timepicker#readme",
   "dependencies": {
     "@react-native-community/picker": "^1.6.5",
-    "react-native-raw-bottom-sheet": "^2.2.0"
+    "react-native-raw-bottom-sheet": "2.2.0"
   },
   "devDependencies": {
     "prop-types": "^15.7.2"
